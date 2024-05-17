@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="try"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="try">
+				<Option output="C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/try.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 try"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="try/fast">
+				<Option output="C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/try.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/i686-w64-mingw32"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include/c++/backward"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/include-fixed"/>
+					<Add directory="C:/mingw32/bin/../lib/gcc/i686-w64-mingw32/7.3.0/../../../../i686-w64-mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 try/fast"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/mingw32/bin/mingw32-make.exe -f &quot;C:/Users/kamil/Downloads/zoo_semestralka/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/Board/Svet.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/Board/Svet.h">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/Board/field.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/Board/field.h">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/BuildBuilding.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/BuildInfo.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/Building.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/Building.h">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/GameEngine.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/GameEngine.h">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/GenerateResource.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/PrintBuildingInfo.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/PrintFullInfo.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/UpgradeBuilding/UpgradeGoldMine.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/UpgradeBuilding/UpgradeGoldStorage.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/UpgradeBuilding/UpgradeInfo.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/UpgradeBuilding/UpgradeLumberMill.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/UpgradeBuilding/UpgradeStoneMine.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/UpgradeBuilding/UpgradeStoneStorage.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/UpgradeBuilding/UpgradeTownHall.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/GameEngine/UpgradeBuilding/UpgradeWoodStorage.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Mines/EnumMine.h">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Mines/GoldMine.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Mines/GoldMine.h">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Mines/LumberMill.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Mines/LumberMill.h">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Mines/MineType.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Mines/MineType.h">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Mines/Mines.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Mines/Mines.h">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Mines/StoneMine.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Mines/StoneMine.h">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Storages/EnumStorage.h">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Storages/GoldStorage.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Storages/GoldStorage.h">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Storages/StoneStorage.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Storages/StoneStorage.h">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Storages/Storage.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Storages/Storage.h">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Storages/StorageType.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Storages/StorageType.h">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Storages/TownHall.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Storages/TownHall.h">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Storages/WoodStorage.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/Storages/WoodStorage.h">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/main.cpp">
+			<Option target="try"/>
+		</Unit>
+		<Unit filename="C:/Users/kamil/Downloads/zoo_semestralka/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
